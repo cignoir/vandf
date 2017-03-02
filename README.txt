@@ -6,8 +6,11 @@ Metasequoia用プラグイン
 * 面上に置いた頂点のうち、マウスカーソルの近くにある4点を自動で選択し、面を生成するメタセコイア用プラグイン
 * リトポのお供にどうぞ
 
-### デモ(mp4)
-* https://gyazo.com/67065628f9c55eab4126e1254058e5b5.mp4
+### ダウンロード
+* v1.0.0 <https://github.com/cignoir/vandf/archive/master.zip>
+
+### デモ(youtube)
+* <https://youtu.be/Revei4yMWlY>
 
 ## ■ 動作確認環境
 * Windows10
