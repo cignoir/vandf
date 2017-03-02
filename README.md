@@ -7,10 +7,10 @@ Metasequoia用プラグイン
 * リトポのお供にどうぞ
 
 ### ダウンロード
-* v1.0.0 https://github.com/cignoir/vandf/archive/master.zip
+* v1.0.0 <https://github.com/cignoir/vandf/archive/master.zip>
 
 ### デモ(youtube)
-* https://www.youtube.com/watch?v=pzOn6AALzW4
+* <https://www.youtube.com/watch?v=pzOn6AALzW4>
 
 ## ■ 動作確認環境
 * Windows10
